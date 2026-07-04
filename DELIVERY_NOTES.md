@@ -86,6 +86,5 @@ the player shuts the fold gate — wherever the rest of the flock stands.
 ## Branch / commit
 
 - Branch: `claude/3d-browser-game-vmpsci`
-- Commit: recorded in the follow-up docs commit after the main commit was cut
-  (see `git log --oneline` — the gameplay commit is the one titled
-  "GLOAMING: a 3D sheepdog game about herding with fear").
+- Game commit: `05bd0bb8b4d3e653835204e608a329735e23ea03`
+  ("GLOAMING: a 3D sheepdog game about herding with fear")
